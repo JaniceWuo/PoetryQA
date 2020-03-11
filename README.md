@@ -20,6 +20,7 @@
 ![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/1.JPG)    
 
 ## 诗词知识图谱
+<img width="350" height="350" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_dynasty.JPG">
 ![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_dynasty.JPG)
 ![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_tag.JPG)
 ![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_poetry.JPG)
