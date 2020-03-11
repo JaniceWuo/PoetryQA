@@ -20,8 +20,8 @@
 ![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/1.JPG)    
 
 ## 诗词知识图谱
-<div align=center><img width="650" height="600" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_dynasty.JPG"/></div>
-<div align=center><img width="650" height="600" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_tag.JPG"/></div>
+<div align=center><img width="550" height="520" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_dynasty.JPG"/></div>
+<div align=center><img width="550" height="520" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_tag.JPG"/></div>
 <div align=center><img width="700" height="600" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_poetry.JPG"/></div>
 
 ## 详细介绍
