@@ -17,7 +17,12 @@
 5.`[optional]`自行爬取诗词，代码见[Spider_poetry.py](https://github.com/JaniceWuo/PoetryQA/blob/master/Spider_poetry.py)，详细介绍见[【爬虫练手小demo】爬取古诗词](https://blog.csdn.net/qq_25590283/article/details/104632222)
 
 ## 运行效果图
-![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/1.JPG)
+![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/1.JPG)    
+
+## 诗词知识图谱
+![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_dynasty.JPG)
+![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_tag.JPG)
+![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_poetry.JPG)
 
 ## 详细介绍
 1.此项目是本人学习知识图谱问答过程中做的小demo，顺便练习一下爬虫    
