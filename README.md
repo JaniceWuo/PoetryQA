@@ -20,10 +20,9 @@
 ![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/1.JPG)    
 
 ## 诗词知识图谱
-<img width="350" height="350" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_dynasty.JPG">
-![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_dynasty.JPG)
-![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_tag.JPG)
-![](https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_poetry.JPG)
+<div align=center><img width="650" height="600" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_dynasty.JPG"/></div>
+<div align=center><img width="650" height="600" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_tag.JPG"/></div>
+<div align=center><img width="700" height="600" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_poetry.JPG"/></div>
 
 ## 详细介绍
 1.此项目是本人学习知识图谱问答过程中做的小demo，顺便练习一下爬虫    
