@@ -21,7 +21,7 @@
 
 ## 诗词知识图谱
 `HAS_POETRY`关系：
-<div align=center><img width="800" height="700" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_poetry.JPG"/></div>
+<div align=center><img width="800" height="650" src="https://github.com/JaniceWuo/PoetryQA/blob/master/img/kg_poetry.JPG"/></div>
 
 ## 详细介绍
 1.此项目是本人学习知识图谱问答过程中做的小demo，顺便练习一下爬虫    
