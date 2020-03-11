@@ -1,5 +1,5 @@
 # PoetryQA
-结合知识图谱(Knowledge Graph)做的有关诗词的问答demo    
+结合知识图谱(Knowledge Graph)做的有关诗词的问答demo 数据库用的neo4j   
 文件夹poetyData下已存储按描写内容爬取的诗词
 
 ## 环境依赖
