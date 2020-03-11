@@ -1,8 +1,5 @@
 import os
 import jieba
-# import ahocorasick
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.externals import joblib
 import numpy as np
 
 
@@ -47,11 +44,11 @@ class QuestionClassifier:
 		self.all_words = list(set(self.author_word + self.poetry_word + self.dynasty_word + self.tag_word))
 
 
-		self.belong_tag = ['属于什么类型', '什么类型', '类型','什么风格','风格','描写什么']
+		self.belong_tag = ['属于什么类型', '什么类型', '类型','什么风格','风格','描写什么','描写']
 		self.write_wd = ['哪些诗', '写了什么诗', '有哪些作品', '作品','有哪些诗']
 		self.dynasty_wd = ['什么朝代的人','哪个朝代', '朝代']
 		self.author_wd = ['作者是谁', '作者', '谁写的']
-		self.content_wd = ['内容','什么内容','内容是什么']
+		self.content_wd = ['内容','什么内容','内容是什么','背诵']
 
 		if not os.path.exists(self.other_feature_path):
 			self.other_features()

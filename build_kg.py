@@ -1,9 +1,7 @@
 from py2neo import Graph, Node, Relationship
-import pandas as pd
 import re
 import os
 import csv
-import codecs
 
 class  poetryGraph(object):
 	"""docstring for  poetryGraph"""
