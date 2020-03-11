@@ -70,7 +70,10 @@ def merge(file_path):
 
 
 if __name__ == '__main__':
-    merge("./poetryData/xue.csv")
-    # start_url='http://so.gushiwen.org/gushi/feng.aspx'
-    # pp = spider(start_url)
-    # pp.start()
+    # merge("./poetryData/feng.csv")
+    '''
+    以爬取“写风”的诗词为例
+    '''
+    start_url='http://so.gushiwen.org/gushi/feng.aspx'
+    pp = spider(start_url)
+    pp.start()
